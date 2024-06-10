@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tshunelani
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning NLP and Classification
-- 💞️ I’m looking to collaborate on ML models
+- 💞️ I’m looking to collaborate on Data Projects
 - 📫 You can reach out to me on mtshunelani@gmail.com
 
 <!---
